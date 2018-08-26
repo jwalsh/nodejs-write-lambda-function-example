@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-write-lambda-function-example",
+  "version": "1.0.0",
+  "description": "https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/nodejs-write-lambda-function-example.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/nodejs-write-lambda-function-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh/nodejs-write-lambda-function-example/issues"
+  },
+  "homepage": "https://github.com/jwalsh/nodejs-write-lambda-function-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.302.0"
+  }
+}
