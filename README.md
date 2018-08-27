@@ -6,4 +6,11 @@ https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/nodejs-write-l
 
 ```
 npm i
+
+```
+
+## Development 
+
+```
+node inspect index
 ```
